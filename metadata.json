@@ -1,0 +1,6 @@
+{
+  "name": "FSR & LSFG Lab",
+  "description": "Simulateur interactif et laboratoire de FidelityFX Super Resolution 2.0 (FSR) et de Frame Generation auto-adaptative (LSFG 3.2) avec tweaks de soulagement GPU.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
